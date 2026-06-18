@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/eco-de-tus-caricias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Eco de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eco-de-tus-caricias/) |
+| **Get License** | [Request Licensing for Eco de tus caricias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/eco-de-tus-caricias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `742e0e568b5ddbb386beeea91975693ee55b0bab4391377b30c59094a1c1d7b0` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
