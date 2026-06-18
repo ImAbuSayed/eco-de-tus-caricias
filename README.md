@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el eco de tus caricias en la habitación
+> Baby, este deseo nos quita la razón
+> Tus labios me llaman con pura tentación
+> Esta noche mando yo, tú eres mi adicción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
